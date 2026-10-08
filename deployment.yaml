@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:latest
+        image: aiswaryapk1234/shoplite-frontend:v1
         ports:
         - containerPort: 80
 
